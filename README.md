@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://files.catbox.moe/p8y9v3.jpg" alt="ALASTOR BANNER" style="max-width: 100%; height: auto; display: block; object-fit: contain;">
+</div>
 
 <!--
 **Painspire/Painspire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
