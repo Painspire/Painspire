@@ -14,3 +14,7 @@
 <div align="center">
   <img src="https://files.catbox.moe/2k9cx0.jpg" alt="Bunnyribbit" style="max-width: 100%; height: auto; display: block; object-fit: contain;">
 </div>
+
+<div align="center">
+  <img src="https://files.catbox.moe/6lzd1i.jpg" alt="cowpills" style="max-width: 100%; height: auto; display: block; object-fit: contain;">
+</div>
