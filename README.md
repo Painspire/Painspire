@@ -1,4 +1,17 @@
 ****MY FAV DUO'S OR CHARACTERS !!****
+
+<div align="center">
+  <img src="https://files.catbox.moe/3wwf1t.jpg" alt="Frox" style="max-width: 100%; height: auto; display: block; object-fit: contain;">
+</div>
+
+<div align="center">
+  <img src="https://files.catbox.moe/s5ps5u.jpg" alt="Frox" style="max-width: 100%; height: auto; display: block; object-fit: contain;">
+</div>
+
+<div align="center">
+  <img src="https://files.catbox.moe/czdqff.jpg" alt="Frox" style="max-width: 100%; height: auto; display: block; object-fit: contain;">
+</div>
+
 <div align="center">
   <img src="https://files.catbox.moe/sbxmdg.jpg" alt="Frox" style="max-width: 100%; height: auto; display: block; object-fit: contain;">
 </div>
