@@ -1,4 +1,4 @@
-****MY FAV DUO'S/SHIPS !!****
+****MY FAV DUO'S OR CHARACTERS !!****
 <div align="center">
   <img src="https://files.catbox.moe/sbxmdg.jpg" alt="Frox" style="max-width: 100%; height: auto; display: block; object-fit: contain;">
 </div>
